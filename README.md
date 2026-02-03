@@ -17,3 +17,7 @@ ILPP exists to reduce downstream exposure created by premature or imprecise writ
 
 ## Availability
 This material is provided privately on request and may be screened prior to sharing.
+
+## Licence
+
+See LICENSE-NOTE.md for licensing and distribution terms.
