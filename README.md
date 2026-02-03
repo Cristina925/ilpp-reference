@@ -1,4 +1,10 @@
-# Incident Language Protection Pack (ILPP) — Executive Edition (Reference)
+> **Licence Notice**
+>
+> This repository contains a neutral reference description only.  
+> The Incident Language Protection Pack (ILPP) itself is proprietary and not included.  
+> No licence is granted for use, reproduction, or distribution of the ILPP without explicit permission.
+
+> # Incident Language Protection Pack (ILPP) — Executive Edition (Reference)
 
 This page is a neutral reference for a language-only documentation set intended for use during incidents, service disruptions, or regulatory engagement where facts are incomplete and written statements may later be relied upon as evidence.
 
